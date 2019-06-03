@@ -1,0 +1,7 @@
+Requires controller to play
+left joystick to move
+A to shoot
+X to shoot shield
+
+Green power up gives three shields
+Heart gives one health
